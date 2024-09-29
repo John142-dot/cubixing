@@ -104,7 +104,7 @@
     <script>
         function createCubes() {
             const numCubes = 5; // Number of cubes
-          
+
           for (let i = 0; i < numCubes; i++) {
               const cube = document.createElement('div');
               cube.className = 'cube';
